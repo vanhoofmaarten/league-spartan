@@ -1,0 +1,26 @@
+{
+  "name": "league-spartan",
+  "version": "1.0.0",
+  "description": "A new classic, this is a bold, modern, geometric sans-serif that has no problem kicking its enemies in the chest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanhoofmaarten/league-spartan.git"
+  },
+  "keywords": [
+    "league",
+    "spartan",
+    "font",
+    "movable",
+    "type"
+  ],
+  "author": "@theleagueof",
+  "license": "OFL-1.0",
+  "bugs": {
+    "url": "https://github.com/vanhoofmaarten/league-spartan/issues"
+  },
+  "homepage": "https://github.com/vanhoofmaarten/league-spartan#readme"
+}
